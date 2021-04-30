@@ -1,15 +1,34 @@
 item {
     id: 1
-    name: 'green'
+    name: 'Box'
 }
 
 item {
     id: 2
-    name: 'yellow'
+    name: 'Green Light'
 }
 
 item {
     id: 3
-    name: 'red'
+    name: 'Left Turn'
 }
 
+item {
+    id: 4
+    name: 'Object'
+}
+
+item {
+    id: 5
+    name: 'Pedestrian'
+}
+
+item {
+    id: 6
+    name: 'Red Light'
+}
+
+item {
+    id: 7
+    name: 'Right Turn'
+}
