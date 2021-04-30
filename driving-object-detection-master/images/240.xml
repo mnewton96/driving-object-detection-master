@@ -1,0 +1,38 @@
+<annotation>
+	<folder>labeltrain</folder>
+	<filename>240.png</filename>
+	<path>D:\MSc Kaggle Data\machine-learning-in-science-2021\training_data\labeltrain\240.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>320</width>
+		<height>240</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Pedestrian</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>82</xmin>
+			<ymin>13</ymin>
+			<xmax>109</xmax>
+			<ymax>87</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Pedestrian</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>139</xmin>
+			<ymin>42</ymin>
+			<xmax>161</xmax>
+			<ymax>85</ymax>
+		</bndbox>
+	</object>
+</annotation>
