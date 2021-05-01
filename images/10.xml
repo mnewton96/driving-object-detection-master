@@ -1,7 +1,7 @@
 <annotation>
-	<folder>labeltrain</folder>
+	<folder>test</folder>
 	<filename>10.png</filename>
-	<path>D:\MSc Kaggle Data\machine-learning-in-science-2021\training_data\labeltrain\10.png</path>
+	<path>C:\Users\Michael\Documents\GitHub\driving-object-detection-master\images\test\10.png</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -12,15 +12,15 @@
 	</size>
 	<segmented>0</segmented>
 	<object>
-		<name>Red Light</name>
+		<name>Pedestrian</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>25</xmin>
-			<ymin>10</ymin>
-			<xmax>59</xmax>
-			<ymax>98</ymax>
+			<xmin>91</xmin>
+			<ymin>175</ymin>
+			<xmax>155</xmax>
+			<ymax>239</ymax>
 		</bndbox>
 	</object>
 </annotation>

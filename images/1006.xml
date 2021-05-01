@@ -1,7 +1,7 @@
 <annotation>
-	<folder>annotatedpics</folder>
+	<folder>test</folder>
 	<filename>1006.png</filename>
-	<path>D:\annotatedpics\1006.png</path>
+	<path>C:\Users\Michael\Documents\GitHub\driving-object-detection-master\images\test\1006.png</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -12,27 +12,15 @@
 	</size>
 	<segmented>0</segmented>
 	<object>
-		<name>Left Turn</name>
+		<name>Pedestrian</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>144</xmin>
-			<ymin>39</ymin>
-			<xmax>189</xmax>
-			<ymax>122</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>Left Turn</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>233</xmin>
-			<ymin>47</ymin>
-			<xmax>276</xmax>
-			<ymax>130</ymax>
+			<xmin>180</xmin>
+			<ymin>22</ymin>
+			<xmax>231</xmax>
+			<ymax>180</ymax>
 		</bndbox>
 	</object>
 </annotation>

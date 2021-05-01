@@ -1,7 +1,7 @@
 <annotation>
-	<folder>annotatedpics</folder>
+	<folder>test</folder>
 	<filename>1007.png</filename>
-	<path>D:\annotatedpics\1007.png</path>
+	<path>C:\Users\Michael\Documents\GitHub\driving-object-detection-master\images\test\1007.png</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -17,10 +17,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>275</xmin>
-			<ymin>31</ymin>
-			<xmax>317</xmax>
-			<ymax>149</ymax>
+			<xmin>168</xmin>
+			<ymin>50</ymin>
+			<xmax>203</xmax>
+			<ymax>77</ymax>
 		</bndbox>
 	</object>
 </annotation>

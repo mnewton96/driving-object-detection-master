@@ -1,7 +1,7 @@
 <annotation>
-	<folder>labeltrain</folder>
+	<folder>test</folder>
 	<filename>1.png</filename>
-	<path>D:\MSc Kaggle Data\machine-learning-in-science-2021\training_data\labeltrain\1.png</path>
+	<path>C:\Users\Michael\Documents\GitHub\driving-object-detection-master\images\test\1.png</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -17,10 +17,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>123</xmin>
-			<ymin>16</ymin>
-			<xmax>193</xmax>
-			<ymax>229</ymax>
+			<xmin>168</xmin>
+			<ymin>22</ymin>
+			<xmax>209</xmax>
+			<ymax>153</ymax>
 		</bndbox>
 	</object>
 </annotation>
