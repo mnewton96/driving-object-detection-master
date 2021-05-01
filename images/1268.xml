@@ -1,0 +1,26 @@
+<annotation>
+	<folder>annotatedpics</folder>
+	<filename>1268.png</filename>
+	<path>D:\annotatedpics\1268.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>320</width>
+		<height>240</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Pedestrian</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>88</xmin>
+			<ymin>20</ymin>
+			<xmax>125</xmax>
+			<ymax>133</ymax>
+		</bndbox>
+	</object>
+</annotation>
